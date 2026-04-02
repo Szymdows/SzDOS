@@ -10,6 +10,4 @@ It is designed to replicate the simplicity and functionality of early DOS system
 
 # License
 
-This project is licensed under the Szymdows Proprietary License (SPL).
-You may run SzDOS for personal use, but redistribution, modification, or reuse of the source code/design is strictly prohibited.
-See the LICENSE.txt file for full details.
+This project is licensed under the MIT License.
