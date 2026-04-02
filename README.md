@@ -1,5 +1,7 @@
 # SzDOS
 
+## Overview
+
 SzDOS is a lightweight, DOS-like operating system built from scratch in Assembly.
 It is designed to replicate the simplicity and functionality of early DOS systems while exploring the fundamentals of low-level programming, bootloaders, and kernel design.
 
