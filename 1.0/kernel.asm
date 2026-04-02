@@ -1,4 +1,3 @@
-;This file is licensed under the Szymdows Proprietary License (SPL).
 org 0x0000
 
     ; Set up segments
