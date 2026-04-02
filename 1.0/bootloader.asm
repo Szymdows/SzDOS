@@ -1,4 +1,3 @@
-;This file is licensed under the Szymdows Proprietary License (SPL).
 org 0x7C00
 
     ; Load kernel from sector 2
