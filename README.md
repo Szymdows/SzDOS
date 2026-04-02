@@ -8,6 +8,10 @@ It is designed to replicate the simplicity and functionality of early DOS system
 -Providing a learning platform for operating system development.
 -Showcasing how a minimal OS can be built to run on real hardware or emulators.
 
-# License
+## License
 
 This project is licensed under the MIT License.
+
+## Contributing
+
+Feel free to contribute to this project! Any size of contribution is accepted and appreciated! This project is meant to be educational and something that people that want to contribute to something easy might want to contribute to.
